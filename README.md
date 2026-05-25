@@ -13,7 +13,6 @@ This is a source code for the **Teeth caries detection using YOLOv11.Nano neural
 * `convert.ipynb` - The Supervisely to YOLOv11 converter, used to convert the dataset to YOLOv11 format
 * `train.ipynb` - The code to train the YOLOv11 model using converted dataset
 * `predict.ipynb` - The code, that can be used to run and visualize caries detection on custom images, using the trained model
-* `best.pt` - The trained YOLOv11 model on 30 epochs to detect caries, cavity and cracks on teeth
 * `object_detector.py` - The backend of a web service
 * `index.html` - The frontend of a web service
 * `caries.jpg` - Sample teeth with caries image
